@@ -1,4 +1,4 @@
-package Projects;
+package Projects.Hotel_Reservation;
 
 import java.sql.*;
 import java.util.Scanner;
